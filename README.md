@@ -6,6 +6,6 @@
 
 ### My GitHub Stats 📊
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Dannaardil&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannaardil&layout=donut)](https://github.com/Dannaardil/github-readme-stats)
 
 ### Feel free to check out my repositories and get in touch! 📍
