@@ -9,6 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannaardil&layout=donut)](https://github.com/Dannaardil/github-readme-stats)
 
-"The only way to do great work is to love what you do." – Steve Jobs
+>"The only way to do great work is to love what you do." – Steve Jobs
 
 ### Feel free to check out my repositories and get in touch! 📍
