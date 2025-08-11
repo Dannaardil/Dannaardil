@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-## I am Danna Ardila 🌟
+## I am Nikole Ardila 🌟
 
 
-### I am always eager to take on new challenges and collaborate with others to create innovative solutions.
+### Always eager to take on new challenges and collaborate with others to create innovative solutions.
 
 ### My GitHub Stats 📊
 
